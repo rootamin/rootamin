@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **osalimohammadamin@gmail.com**
 
+- ⏮️ Previously worked with **Unreal Engine, Blender. then changed my field of work to something I like more**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osaliamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osaliamin" height="30" width="40" /></a>
