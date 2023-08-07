@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **Aria Rang Company (Private)**
 
-- 🌱 I’m currently learning **JS, Kotlin, Tensorflow**
+- 🌱 I’m currently learning **JS, C#, Tensorflow**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
