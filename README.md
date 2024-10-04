@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently **Studying for college**
 
-- 🌱 I’m currently learning **JS, C#, Tensorflow**
+- 🌱 I’m currently learning **Linear algebra, Data science, Machine learning algorithms and Physics**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
-- 💬 Ask me about **Python, Django, Pygame, Bash, Servers**
+- 💬 Ask me about **Python, Django, Pygame, Bash, Servers, Network, Mathematics, Algorithms**
 
 - 📫 How to reach me **osalimohammadamin@gmail.com**
 
