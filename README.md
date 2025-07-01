@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin Osali(aka rootamin)</h1>
-<h3 align="center">Full stack Python dev, Djangoer, In love with pixel art retro style game development, Interested in Data analysis, AI and ML.</h3>
+<h1 align="center">Hi 👋, I'm Amin Osali(aka rootamin)</h1>
+<h3 align="center">Physics BSc Student, Full stack Python dev, Djangoer, In love with pixel art retro style game development, Interested in Data analysis, AI and ML.</h3>
 
 - 🔭 I’m currently **Studying for college**
 
